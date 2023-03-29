@@ -1,0 +1,32 @@
+.category-group{
+  /* background-color: #f5f5f5; */
+  /* padding-top: 45px; */
+}
+
+.category-info{
+  /* background-color: red; */
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  /* align-content: start; */
+  align-items: center;
+  margin-left:0px;
+}
+
+.category-group-name{
+  display: inline-block;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin: 12px;
+  color: #343c63;
+
+}
+
+.category-group-length{
+  background-color: #bdf0ed;
+  padding: 8px 12px;
+  border-radius: 50%;
+  color: #043835;
+  font-size: 1.1rem;
+  font-weight: bold;
+}

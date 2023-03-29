@@ -1,0 +1,26 @@
+.info-bar{
+  background-color: #f94450;
+  height: 70px;
+  grid-column: 1 / 4;
+  grid-row: 3 / 4;
+  position:fixed;
+  width: 74%;
+  top:240.6px;
+  /* display: none; */
+  z-index: 8;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+  color: white;
+  display: none;
+}
+
+.info-bar i{
+  padding: 10px;
+  /* background-color: yellow; */
+  border-radius: 50%;
+  border: 1px solid white;
+  color: white;
+  margin-right: 10px;
+}
